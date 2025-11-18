@@ -468,3 +468,4 @@ if st.checkbox("Show debug info (model availability)"):
         st.write("Granite loaded. Device:", dev)
     except Exception as e:
         st.write("Granite not loaded:", e)
+
